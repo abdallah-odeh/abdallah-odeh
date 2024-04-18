@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallah-odeh" alt="abdallah-odeh" /></a> </p>
 
-- 👯 I’m looking to collaborate on [flutter_file_downloader](https://github.com/abdallah-odeh/flutter_file_downloader.git)
+- 👯‍♀️ I’m looking to collaborate on [flutter_file_downloader](https://github.com/abdallah-odeh/flutter_file_downloader.git)
 
 - 📫 How to reach me **abdallah@odeh-bros.com**
 
